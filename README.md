@@ -9,6 +9,8 @@ Simply put, I have written a perfect algorithm for the game such that the player
 
 The algorithm is totally logic based without the use of any ML/AI technology (Commonly used).
 
+However, there is a lot of scope for further UI enhancement.
+
 Ps: Do let me know if you are able to beat my algorithm and win the game.
 
 Regards
